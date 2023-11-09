@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yangyanli.github.io/sitemap.xml
+Sitemap: https://yangyan.li/sitemap.xml
